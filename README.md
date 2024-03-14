@@ -14,7 +14,7 @@ Please cite the below paper if you use this repository-<br/>
 
 
 ## Instructions to run sample files
-1. Clone the github repository to your local system using <code> git clone https://github.com/tusharkadian/PTB-XL-ECG.git </code>
+1. Clone the github repository to your local system using <code> git clone https://github.com/KrisshShankaran/PTB-XL-ECG.git </code>
 2. Make sure python and pip are installed in your system. If not, visit https://www.python.org/ to download python. 
 3. Code requires two more packages to run: **Numpy** and **Tensorflow**
    1. Install numpy -> <code> pip install numpy </code>
